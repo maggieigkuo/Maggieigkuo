@@ -11,7 +11,7 @@ The purpose of this repository is to showcase my skills and the projects I have 
 - [About Me](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#about-me)
 - [Projects](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#projects)
   - #### Python
-    - [Analyzing Stop and Frisks Occurring in each NYC Borough](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#analyzing-stop-and-frisks-occurring-in-each-nyc-borough)
+    - [Analyzing Stop and Frisks Occurring in each NYC Borough](https://github.com/maggieigkuo/Portfolio/blob/main/Stop_and_Frisk.ipynb)
     - [Social Media Data Visualization Analysis](https://github.com/maggieigkuo/Portfolio/blob/main/README.md#social-media-data-visualization-analysis)
   - #### Tableau
     - [Global Maternal Mortality](https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1)
