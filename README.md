@@ -49,6 +49,20 @@ Technology: Python, Pandas, Numpy, Matplotlib
 
 Results: Social media significantly impacts female users more than male and non-binary individuals. Platforms like Instagram have evolved into culturally powerful tools, capable of influencing a person's mood and shaping their self-image.
 
+### Global Maternal Mortality
+
+Dashboard: https://public.tableau.com/app/profile/maggie.kuo/viz/FinalProjectDash1_17465960340370/Dashboard1
+
+Goal: Produce six visualizations from the data to identify key patterns and trends, effectively conveying a clear narrative about what the data reveals and its implications
+
+Description: This dataset encompasses various age groups, genders, sexual orientations, and emotions across different social media platforms. The purpose of the project is to create visualizations that uncover significant correlations among these factors and provide meaningful insights into the results. 
+
+Skills: data analysis, data visualization
+
+Technology: Python, Pandas, Numpy, Matplotlib
+
+Results: Social media significantly impacts female users more than male and non-binary individuals. Platforms like Instagram have evolved into culturally powerful tools, capable of influencing a person's mood and shaping their self-image.
+
 ## Education
 
 Binghamton University, State University of New York: Bachelor's degree, Integrative Neuroscience and Digital and Data Studies, 2021-2025
